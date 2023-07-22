@@ -1,1 +1,19 @@
-/Library
+# Unity generated
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Assets/WebGLTemplates/
+
+# Exclude .DS_Store files on macOS
+.DS_Store
+
+# Exclude .meta files
+*.meta
+
+# Exclude .sln and .csproj files for Visual Studio
+*.sln
+*.csproj
+
+# Exclude user-specific Unity files
+*.userprefs
